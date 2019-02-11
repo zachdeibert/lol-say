@@ -31,6 +31,11 @@ HAI 1.2
         BOTH SAEM NUM 0, O RLY?
             YA RLY, SPELLNG R "zero"
             NO WAI
+                BOTH SAEM NUM AN BIGGR OF NUM AN 100, O RLY?
+                    YA RLY
+                        SPELLNG R SMOOSH SPELLNG AN I IZ ONES YR QUOSHUNT OF NUM AN 100 MKAY AN "hundred " MKAY
+                        NUM R MOD OF NUM AN 100
+                OIC
                 BOTH SAEM NUM AN BIGGR OF NUM AN 10, O RLY?
                     YA RLY
                         DIFFRINT NUM AN BIGGR OF NUM AN 20, O RLY?
