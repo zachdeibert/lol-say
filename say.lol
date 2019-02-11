@@ -1,5 +1,20 @@
 #!/usr/bin/env lci
 HAI 1.2
+    HOW IZ I ONES YR NUM
+        NUM, WTF?
+            OMG 0, FOUND YR ""
+            OMG 1, FOUND YR "one "
+            OMG 2, FOUND YR "two "
+            OMG 3, FOUND YR "three "
+            OMG 4, FOUND YR "four "
+            OMG 5, FOUND YR "five "
+            OMG 6, FOUND YR "six "
+            OMG 7, FOUND YR "seven "
+            OMG 8, FOUND YR "eight "
+            OMG 9, FOUND YR "nine "
+            OMGWTF, FOUND YR "***"
+        OIC
+    IF U SAY SO
     HOW IZ I WORK
         BTW WHA IS DA NUMBR!?
         VISIBLE "WHAS YA NUMBR?"
@@ -49,6 +64,7 @@ HAI 1.2
                                         SPELLNG R SMOOSH SPELLNG AN "nineteen " MKAY
                                         GTFO
                                 OIC
+                                NUM R 0
                             NO WAI
                                 QUOSHUNT OF NUM AN 10, WTF?
                                     OMG 1
@@ -82,35 +98,7 @@ HAI 1.2
                                 NUM R MOD OF NUM AN 10
                         OIC
                 OIC
-                NUM, WTF?
-                    OMG 1
-                        SPELLNG R SMOOSH SPELLNG AN "one " MKAY
-                        GTFO
-                    OMG 2
-                        SPELLNG R SMOOSH SPELLNG AN "two " MKAY
-                        GTFO
-                    OMG 3
-                        SPELLNG R SMOOSH SPELLNG AN "three " MKAY
-                        GTFO
-                    OMG 4
-                        SPELLNG R SMOOSH SPELLNG AN "four " MKAY
-                        GTFO
-                    OMG 5
-                        SPELLNG R SMOOSH SPELLNG AN "five " MKAY
-                        GTFO
-                    OMG 6
-                        SPELLNG R SMOOSH SPELLNG AN "six " MKAY
-                        GTFO
-                    OMG 7
-                        SPELLNG R SMOOSH SPELLNG AN "seven " MKAY
-                        GTFO
-                    OMG 8
-                        SPELLNG R SMOOSH SPELLNG AN "eight " MKAY
-                        GTFO
-                    OMG 9
-                        SPELLNG R SMOOSH SPELLNG AN "nine " MKAY
-                        GTFO
-                OIC
+                SPELLNG R SMOOSH SPELLNG AN I IZ ONES YR NUM MKAY MKAY
         OIC
         VISIBLE SPELLNG
         BTW ASK FUR MOR NUMBRS
