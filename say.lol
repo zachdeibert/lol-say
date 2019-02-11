@@ -46,6 +46,9 @@ HAI 1.2
                 DIFFRINT NUM AN BIGGR OF NUM AN 20, O RLY?
                     YA RLY
                         NUM, WTF?
+                            OMG 10
+                                SPELLNG R SMOOSH SPELLNG AN "ten " MKAY
+                                GTFO
                             OMG 11
                                 SPELLNG R SMOOSH SPELLNG AN "eleven " MKAY
                                 GTFO
@@ -77,9 +80,6 @@ HAI 1.2
                         NUM R 0
                     NO WAI
                         QUOSHUNT OF NUM AN 10, WTF?
-                            OMG 1
-                                SPELLNG R SMOOSH SPELLNG AN "ten " MKAY
-                                GTFO
                             OMG 2
                                 SPELLNG R SMOOSH SPELLNG AN "twenty " MKAY
                                 GTFO
